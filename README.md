@@ -1,26 +1,27 @@
 # Hi there 👋 I'm Waldyr 
 
-🎓 Computer Science student – Application Development  
-📍 Living and studying in Belgium  
-🌍 Portuguese 🇵🇹
+🎓 **Computer Science Student** – Application Development  
+📍 Portuguese 🇵🇹 living and studying in Belgium  
+📧 costawaldyr1@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/waldyr-costa-lima-b38304257)
 
 ---
 
 ## 👨‍💻 About Me
 
 I am a **Computer Science student specialized in application development**, currently studying in Belgium.  
-During my studies, I have worked on several academic projects covering **software development, databases, modeling, and data fundamentals**.
+Through my academic journey, I have worked on multiple projects involving **software development, databases, system modeling, and data fundamentals**.
 
-I enjoy learning new technologies and building practical projects such as **games, web applications, and desktop/mobile apps**.
+I enjoy building practical applications such as **games, web platforms, desktop software, and basic mobile apps**, while continuously improving my technical skills.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Technical Skills
 
 ### 💻 Programming Languages
 - Python  
-- PHP  
 - Java  
+- PHP  
 - C# (.NET)  
 - JavaScript  
 - HTML & CSS  
@@ -31,10 +32,10 @@ I enjoy learning new technologies and building practical projects such as **game
 - JavaFX  
 - .NET  
 - Basic mobile development with Java  
-- Web development (PHP & Django)
+- Web development with PHP & Django
 
 ### 📊 Other Skills
-- Databases (SQL, relational databases)  
+- SQL & relational databases  
 - Data fundamentals & basic data science concepts  
 - System analysis & modeling  
 - Object-Oriented Programming (OOP)  
@@ -44,28 +45,25 @@ I enjoy learning new technologies and building practical projects such as **game
 
 ## 📂 Academic Projects
 
-- 🎮 Games developed in **C#**  
-- 🎮 Desktop game using **JavaFX**  
-- 🌐 Websites using **PHP** and **Django**  
-- 📱 Mobile applications with **Java**  
-- 🗄️ Database modeling and system analysis projects  
+- 🎮 **Game development** using **C#**  
+- 🎮 **Desktop game** developed with **JavaFX**  
+- 🌐 **Web applications** using **PHP** and **Django**  
+- 📱 **Mobile application** developed in **Java**  
+- 🗄️ **Database modeling** and system analysis projects  
 
-(All projects were developed as part of my computer science studies.)
+_All projects were developed as part of my computer science studies._
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Working on university projects in application development
-- 🌱 Learning advanced concepts in software engineering
-- 👯 Looking to collaborate on open-source projects
-- 🤔 Seeking internship opportunities in software development
-- 💬 Ask me about: Python, Java, web development, or studying CS in Belgium
-- 📫 How to reach me: costawaldyr1@outlook.com
-- ⚡ Fun fact: Portuguese student navigating the Belgian tech education system!
+- 🔭 Working on university projects in application development  
+- 🌱 Learning advanced software engineering concepts  
+- 👯 Open to collaborating on student or open-source projects  
+- 🤔 Actively seeking **internship opportunities** in software development  
+- 💬 Ask me about Python, Java, web development, or studying CS in Belgium  
 
 ---
-
 
 ## 📊 GitHub Analytics
 
@@ -75,25 +73,32 @@ I enjoy learning new technologies and building practical projects such as **game
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=costawaldyr1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=costawaldyr&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🌍 Languages & Location
 
-- **Portuguese:** Native
-- **English:** Fluent (Professional proficiency)
-- **French/Dutch:** Learning (Living in Belgium)
-- **Location:** Belgium/Brussels (Portuguese nationality)
+- **Portuguese:** Native  
+- **English:** Fluent (professional proficiency)  
+- **French / Dutch:** Currently learning  
+- **Location:** Belgium  
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact
 
 - 📧 Email: **costawaldyr1@outlook.com**  
-- 💼 LinkedIn: [linkedin.com/in/waldyr-costa-lima-b38304257](https://www.linkedin.com/in/waldyr-costa-lima-b38304257)
+- 💼 LinkedIn: [Waldyr Costa Lima](https://www.linkedin.com/in/waldyr-costa-lima-b38304257)
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+<img src="https://komarev.com/ghpvc/?username=costawaldyr1&color=blue" alt="Profile views" />
+
+</div>
+
