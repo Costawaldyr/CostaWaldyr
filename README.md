@@ -68,18 +68,13 @@ _All projects were developed as part of my computer science studies._
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=CostaWaldyr&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaWaldyr&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=costawaldyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costawaldyr&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CostaWaldyr&theme=radical"
-    alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=costawaldyr&theme=radical" alt="GitHub Streak" />
 </div>
->
 
 ---
 
