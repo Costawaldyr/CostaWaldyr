@@ -54,11 +54,24 @@ I enjoy learning new technologies and building practical projects such as **game
 
 ---
 
+## 🎯 Currently
+
+- 🔭 Working on university projects in application development
+- 🌱 Learning advanced concepts in software engineering
+- 👯 Looking to collaborate on open-source projects
+- 🤔 Seeking internship opportunities in software development
+- 💬 Ask me about: Python, Java, web development, or studying CS in Belgium
+- 📫 How to reach me: costawaldyr1@outlook.com
+- ⚡ Fun fact: Portuguese student navigating the Belgian tech education system!
+
+---
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=costawaldyr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costawaldyr1&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=costawaldyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costawaldyr&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
@@ -72,8 +85,9 @@ I enjoy learning new technologies and building practical projects such as **game
 - **Portuguese:** Native
 - **English:** Fluent (Professional proficiency)
 - **French/Dutch:** Learning (Living in Belgium)
-- **Location:** Belgium (Portuguese nationality)
+- **Location:** Belgium/Brussels (Portuguese nationality)
 
+---
 
 ## 📫 Contact Me
 
