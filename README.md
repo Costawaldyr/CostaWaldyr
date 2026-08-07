@@ -12,7 +12,6 @@ Currently looking for a **software development internship**.
 I'm a second-year Application Development student passionate about backend development, software architecture, and AI-powered applications. Through my coursework I've built desktop, web, mobile, and game applications in Java, C#, Python, and JavaScript — with a growing focus on clean, maintainable, well-structured code and hands-on API/AI integration (OpenAI, Claude, Firebase).
 
 - 🔭 Currently building academic projects in Java, C#/.NET, and Django
-- 🌱 Learning French (B1/B2) and picking up Dutch
 - 🤝 Open to student collaborations and open-source contributions
 - 💬 Ask me about Java, C#, Django, or studying Computer Science in Belgium
 
