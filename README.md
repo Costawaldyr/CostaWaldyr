@@ -1,15 +1,16 @@
-# Hi, I'm Waldyr 👋
-**Full-stack Developer - Based in Belgium**
-**Application Development Student** at HELB, Brussels 🇧🇪 — Portuguese 🇵🇹
-📧 costawaldyr1@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/waldyr-costa-lima-b38304257)
+Hi, I'm Waldyr Costa👋
 
-Currently looking for a **software development internship**.
+Full-Stack Developer | Application Development Student
+Based in Belgium | Portuguese 🇵🇹
 
----
+📧 costawaldyr1@outlook.com
+💼 LinkedIn: https://www.linkedin.com/in/waldyr-costa-lima-b38304257
 
 ## About
-
-I'm a second-year Application Development student passionate about backend development, software architecture, and AI-powered applications. Through my coursework I've built desktop, web, mobile, and game applications in Java, C#, Python, and JavaScript — with a growing focus on clean, maintainable, well-structured code and hands-on API/AI integration (OpenAI, Claude, Firebase).
+I'm currently looking for a Software Engineering Internship.
+I'm a second-year Application Development student at HELB (Brussels) with a strong interest in backend development, software architecture, and AI-powered applications.
+Through academic projects, I have designed and developed desktop, web, mobile, and AI applications using Java, Python, C#, Django, SQL, JavaScript, React, Android, Firebase, OpenAI, and Claude APIs. These projects have strengthened my skills in software design, database development, API integration, and writing clean, maintainable, and well-structured code.
+I enjoy learning new technologies independently, solving real-world problems, and turning ideas into practical software solutions. I'm eager to contribute to real projects, collaborate with experienced software engineers, and continue growing as a full-stack software developer.
 
 - 🔭 Currently building academic projects in Java, C#/.NET, and Django
 - 🤝 Open to student collaborations and open-source contributions
