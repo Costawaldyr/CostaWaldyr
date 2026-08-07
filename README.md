@@ -1,5 +1,5 @@
 # Hi, I'm Waldyr 👋
-
+**Full-stack Developer - Based in Belgium
 **Application Development Student** at HELB, Brussels 🇧🇪 — Portuguese 🇵🇹
 📧 costawaldyr1@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/waldyr-costa-lima-b38304257)
 
