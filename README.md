@@ -1,6 +1,6 @@
 Hi, I'm Waldyr Costa👋
 
-Full-Stack Developer | Application Development Student
+Full-Stack Developer | Application Development Student  
 Based in Belgium | Portuguese 🇵🇹
 
 📧 costawaldyr1@outlook.com
