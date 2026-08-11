@@ -3,8 +3,9 @@ Hi, I'm Waldyr Costa👋
 Full-Stack Developer | Application Development Student  
 Based in Belgium | Portuguese 🇵🇹
 
-📧 costawaldyr1@outlook.com
-💼 LinkedIn: https://www.linkedin.com/in/waldyr-costa-lima-b38304257
+📧 costawaldyr1@outlook.com  
+💼 LinkedIn: https://www.linkedin.com/in/waldyr-costa-lima-b38304257  
+💬 Discord: `Costawaldyr`
 
 ## About
 I'm currently looking for a Software Engineering Internship.
