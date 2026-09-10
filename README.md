@@ -9,8 +9,8 @@ I'm an Application Development student at HELB in Brussels, currently looking fo
 
 I'm particularly interested in software engineering and full-stack development. I enjoy building practical applications, improving my technical skills and learning new technologies. I'm looking forward to contributing to real projects, working with experienced software engineers and continuing to grow as a developer.
 
-🎓 Building academic projects in Java, C#/.NET, Python and Django
-🤝 Open to student collaborations and open-source contributions
+Building academic projects in Java, C#/.NET, Python and Django  
+Open to student collaborations and open-source contributions 🤝
 
 
 ## Technical Skills
