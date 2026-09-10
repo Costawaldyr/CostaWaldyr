@@ -1,21 +1,17 @@
-Hi, I'm Waldyr Costa👋
+Hi, I'm Costa Waldyr.
 
-Full-Stack Developer | Application Development Student  
-Based in Belgium | Portuguese 🇵🇹
-
-📧 costawaldyr1@outlook.com  
-💼 LinkedIn: https://www.linkedin.com/in/waldyr-costa-lima-b38304257  
-💬 Discord: `Costawaldyr`
+Application Development Student | Aspiring Software Engineer
+Brussels, Belgium 🇧🇪
+🎯 Seeking a Software Engineering Internship from January 2027
 
 ## About
-I'm currently looking for a Software Engineering Internship.
-I'm a second-year Application Development student at HELB (Brussels) with a strong interest in backend development, software architecture, and AI-powered applications.
-Through academic projects, I have designed and developed desktop, web, mobile, and AI applications using Java, Python, C#, Django, SQL, JavaScript, React, Android, Firebase, OpenAI, and Claude APIs. These projects have strengthened my skills in software design, database development, API integration, and writing clean, maintainable, and well-structured code.
-I enjoy learning new technologies independently, solving real-world problems, and turning ideas into practical software solutions. I'm eager to contribute to real projects, collaborate with experienced software engineers, and continue growing as a full-stack software developer.
+I'm an Application Development student at HELB in Brussels, currently looking for a Software Engineering internship in 2027. Through academic projects, I have developed web, desktop, mobile and AI-enabled applications using technologies such as Java, Python, C#, Django and SQL.
 
-- 🔭 Currently building academic projects in Java, C#/.NET, and Django
-- 🤝 Open to student collaborations and open-source contributions
-- 💬 Ask me about Java, C#, Django, or studying Computer Science in Belgium
+I'm particularly interested in software engineering and full-stack development. I enjoy building practical applications, improving my technical skills and learning new technologies. I'm looking forward to contributing to real projects, working with experienced software engineers and continuing to grow as a developer.
+
+🎓 Building academic projects in Java, C#/.NET, Python and Django
+🤝 Open to student collaborations and open-source contributions
+
 
 ## Technical Skills
 
@@ -84,13 +80,14 @@ I enjoy learning new technologies independently, solving real-world problems, an
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 [HELBAgent](https://github.com/Costawaldyr/HELBAgent-DjangoAIChatbot) | Web platform to create and chat with custom AI agents — Django + OpenAI API, real-time shared chat |
-| 📚 [StudyBuddy](https://github.com/Costawaldyr/HELBStudyBuddy-AndroidFirebase) | Android app matching students for study sessions, with an integrated AI assistant — Firebase + Claude API + Mapbox |
-| 📖 [HELBLibrary](https://github.com/Costawaldyr/HELBLibrary-AvaloniaMVVM) | Cross-platform desktop library manager — C# Avalonia UI, strict MVVM, MongoDB & JSON Server |
-| 🗺️ [Tripster](https://github.com/Costawaldyr/Php_Project) | Responsive travel platform built in a team of three — PHP, MySQL, AJAX |
-| 🗡️ [Overform](https://github.com/Costawaldyr/HELBMiniGame-UnityCSharp) | 2D pixel-art action-platformer — Unity, C#, custom combat and AI |
+| # | Project | Description |
+|---|---|---|
+| 1 | 🤖 [HELBAgent-DjangoAIChatbot](https://github.com/Costawaldyr/HELBAgent-DjangoAIChatbot) | Web platform to create and chat with custom AI agents — Python, Django, OpenAI API, real-time shared chat |
+| 2 | 📚 [HELBStudyBuddy-AndroidFirebase](https://github.com/Costawaldyr/HELBStudyBuddy-AndroidFirebase) | Android application matching students for study sessions, with an integrated AI assistant — Java, Android, Firebase, Claude API & Mapbox |
+| 3 | 📖 [HELBLibrary-AvaloniaMVVM](https://github.com/Costawaldyr/HELBLibrary-AvaloniaMVVM) | Cross-platform desktop library manager — C#, Avalonia UI, MVVM, MongoDB & JSON Server |
+| 4 | ☕ HELBMaGo-JavaDesignPatterns | Java application demonstrating OOP, JavaFX, design patterns and JUnit |
+| 5 | 🏥 HELBMedicalCenter-DotNetWinForms | Desktop medical center management application — C#, .NET & Windows Forms |
+| 6 | 🔎 HELBFourmiz-JavaFXSimulation / HELBScrumManagement | Project to be selected after reviewing which repository provides the strongest additional technical evidence |
 
 ## 📊 GitHub Stats
 
