@@ -1,7 +1,7 @@
 Hi, I'm Costa Waldyr.
 
-Application Development Student | Aspiring Software Engineer
-Brussels, Belgium 🇧🇪
+Application Development Student | Aspiring Software Engineer  
+Brussels, Belgium 🇧🇪  
 🎯 Seeking a Software Engineering Internship from January 2027
 
 ## About
