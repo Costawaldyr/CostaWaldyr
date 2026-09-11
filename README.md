@@ -83,3 +83,7 @@ Open to student collaborations and open-source contributions 🤝
 
 ![](https://github-readme-stats.vercel.app/api?username=Costawaldyr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Costawaldyr&theme=dark&hide_border=true&layout=compact)
+![](https://streak-stats.demolab.com?user=Costawaldyr&theme=dark&hide_border=true)
+
+## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Costawaldyr/Costawaldyr/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
