@@ -78,16 +78,6 @@ Open to student collaborations and open-source contributions 🤝
   <img src="https://img.shields.io/badge/Unit_Testing-JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
 </p>
 
-## 📌 Featured Projects
-
-| # | Project | Description |
-|---|---|---|
-| 1 | 🤖 [HELBAgent-DjangoAIChatbot](https://github.com/Costawaldyr/HELBAgent-DjangoAIChatbot) | Web platform to create and chat with custom AI agents — Python, Django, OpenAI API, real-time shared chat |
-| 2 | 📚 [HELBStudyBuddy-AndroidFirebase](https://github.com/Costawaldyr/HELBStudyBuddy-AndroidFirebase) | Android application matching students for study sessions, with an integrated AI assistant — Java, Android, Firebase, Claude API & Mapbox |
-| 3 | 📖 [HELBLibrary-AvaloniaMVVM](https://github.com/Costawaldyr/HELBLibrary-AvaloniaMVVM) | Cross-platform desktop library manager — C#, Avalonia UI, MVVM, MongoDB & JSON Server |
-| 4 | ☕ HELBMaGo-JavaDesignPatterns | Java application demonstrating OOP, JavaFX, design patterns and JUnit |
-| 5 | 🏥 HELBMedicalCenter-DotNetWinForms | Desktop medical center management application — C#, .NET & Windows Forms |
-| 6 | 🔎 HELBFourmiz-JavaFXSimulation / HELBScrumManagement | Project to be selected after reviewing which repository provides the strongest additional technical evidence |
 
 ## 📊 GitHub Stats
 
