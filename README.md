@@ -81,8 +81,8 @@ Open to student collaborations and open-source contributions 🤝
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Costawaldyr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Costawaldyr&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats-omega-peach.vercel.app/api?username=Costawaldyr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-omega-peach.vercel.app/api/top-langs/?username=Costawaldyr&theme=dark&hide_border=true&layout=compact)
 ![](https://streak-stats.demolab.com?user=Costawaldyr&theme=dark&hide_border=true)
 
 ## 🐍 Contribution Snake
