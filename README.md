@@ -1,13 +1,3 @@
-  <a href="https://github.com/costawaldyr">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Costa%20Waldyr" alt="Hello! I&#39;m Costa Waldyr" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer;Seeking%20a%20Software%20Engineering%20Internship%20from%20January%202027" alt="Typing headlines" />
-</p>
-
-
 Hi, I'm Costa Waldyr.
 
 Computer Science Student | Aspiring Software Engineer  
