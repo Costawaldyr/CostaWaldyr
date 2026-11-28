@@ -5,9 +5,9 @@ Brussels, Belgium 🇧🇪
 🎯 Seeking a Software Engineering Internship from January 2027
 
 ## About
-I'm an Application Development student at HELB in Brussels, currently looking for a Software Engineering internship in 2027. Through academic projects, I have developed web, desktop, mobile and AI-enabled applications using technologies such as Java, Python, C#, Django and SQL.
+I'm an Application Development student at HELB in Brussels, currently pursuing a Bachelor's degree in Computer Science, with an expected graduation in 2027. Through academic projects, I have developed web, desktop, mobile and AI-enabled applications using technologies such as Java, Python, C#, Django and SQL.
 
-I'm particularly interested d in software engineering, in Backend Development, Software Architecture, Full-Stack Development, Microservices and Enterprise Applications (ERP).
+I'm particularly interested in software engineering, Backend Development, Software Architecture, Full-Stack Development, Microservices and Enterprise Applications (ERP).
 
 I enjoy building practical applications, I'm continuously improving my technical skills, learning new technologies and looking forward to contributing to real projects, working with a professional development team, learning from experienced software engineers, continuing to grow as a developer, and building reliable software solutions.
 
